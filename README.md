@@ -19,7 +19,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 7	Normal equations
 
 
--Exercise 2: Logistic Regression-
+---Exercise 2: Logistic Regression---
 -
 1	Sigmoid function
 
