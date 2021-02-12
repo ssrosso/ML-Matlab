@@ -32,3 +32,14 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 5	Compute cost for regularized LR
 
 6	Gradient for regularized LR
+
+
+---Exercise 3: Multi-class Classification and Neural Networks---
+-
+1	Regularized logistic regression	30 / 30
+
+2	One-vs-all classifier training	20 / 20
+
+3	One-vs-all classifier prediction	20 / 20
+
+4	Neural network prediction function	30 / 30
