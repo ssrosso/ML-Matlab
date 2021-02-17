@@ -46,7 +46,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 
 
 ---Exercise 4: Neural Network Learning---
-
+-
 1	Feedforward and cost function
 
 2	Regularized cost function
