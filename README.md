@@ -43,3 +43,16 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 3	One-vs-all classifier prediction	20 / 20
 
 4	Neural network prediction function	30 / 30
+
+
+---Exercise 4: Neural Network Learning---
+
+1	Feedforward and cost function
+
+2	Regularized cost function
+
+3	Sigmoid gradient
+
+4	Neural net gradient function (backpropagation)
+
+5	Regularized gradient
