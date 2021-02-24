@@ -56,3 +56,16 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 4	Neural net gradient function (backpropagation)
 
 5	Regularized gradient
+
+
+---Exercise 6: Regularized Linear Regression and Bias/Variance---
+-
+1	Regularized linear regression cost function
+
+2	Regularized linear regression gradient
+
+3	Learning curve
+
+4	Polynomial feature mapping
+
+5	Cross validation curve
