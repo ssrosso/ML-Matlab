@@ -36,13 +36,13 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 
 ---Exercise 3: Multi-class Classification and Neural Networks---
 -
-1	Regularized logistic regression	30 / 30
+1	Regularized logistic regression
 
-2	One-vs-all classifier training	20 / 20
+2	One-vs-all classifier training
 
-3	One-vs-all classifier prediction	20 / 20
+3	One-vs-all classifier prediction
 
-4	Neural network prediction function	30 / 30
+4	Neural network prediction function
 
 
 ---Exercise 4: Neural Network Learning---
