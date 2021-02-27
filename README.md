@@ -80,3 +80,40 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 4	Polynomial feature mapping
 
 5	Cross validation curve
+
+
+---Exercise 7: Support Vector Machines---
+-
+1	Gaussian kernel
+
+2	Parameters (C, sigma) for dataset 3
+
+3	Email preprocessing
+
+4	Email feature extraction
+
+
+---Exercise 8: K-Means Clustering and PCA---
+-
+1	Find closest centroids
+
+2	Compute centroid means
+
+4	Project data
+
+5	Recover data
+
+
+---Exercise 9: Anomaly Detection and Recommender Systems---
+-
+1	Estimate gaussian parameters
+
+2	Select threshold
+
+3	Collaborative filtering cost
+
+4	Collaborative filtering gradient
+
+5	Regularized cost
+
+6	Gradient with regularization
