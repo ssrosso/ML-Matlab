@@ -58,18 +58,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 5	Regularized gradient
 
 
----Exercise 5: Multi-class Classification and Neural Networks---
--
-1	Regularized logistic regression
-
-2	One-vs-all classifier training
-
-3	One-vs-all classifier prediction
-
-4	Neural network prediction function
-
-
----Exercise 6: Regularized Linear Regression and Bias/Variance---
+---Exercise 5: Regularized Linear Regression and Bias/Variance---
 -
 1	Regularized linear regression cost function
 
@@ -82,7 +71,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 5	Cross validation curve
 
 
----Exercise 7: Support Vector Machines---
+---Exercise 6: Support Vector Machines---
 -
 1	Gaussian kernel
 
@@ -93,7 +82,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 4	Email feature extraction
 
 
----Exercise 8: K-Means Clustering and PCA---
+---Exercise 7: K-Means Clustering and PCA---
 -
 1	Find closest centroids
 
@@ -104,7 +93,7 @@ Exercises come from Stanford University online course on Machine Learning, dicta
 5	Recover data
 
 
----Exercise 9: Anomaly Detection and Recommender Systems---
+---Exercise 8: Anomaly Detection and Recommender Systems---
 -
 1	Estimate gaussian parameters
 
